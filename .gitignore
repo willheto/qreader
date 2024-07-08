@@ -1,0 +1,32 @@
+# Ignore built JavaScript files
+dist/
+
+# Ignore TypeScript definition files
+*.tsbuildinfo
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment-specific files
+.env
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore yarn lock file
+yarn.lock
+
+# Ignore Visual Studio Code folder
+.vscode/
+
+# Ignore IntelliJ IDEA folder
+.idea/
+
+# Ignore Mac Finder folder attributes
+.DS_Store
+
+# Ignore Jest coverage folder
+coverage/
+
+# Ignore any local configuration files that may be created
+*.local
