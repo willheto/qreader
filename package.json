@@ -1,6 +1,6 @@
 {
 	"name": "qreader",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"description": "QR Code Scanner written in Typescript",
 	"main": "dist/qreader.js",
 	"module": "dist/qreader.js",

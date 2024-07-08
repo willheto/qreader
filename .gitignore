@@ -30,3 +30,5 @@ coverage/
 
 # Ignore any local configuration files that may be created
 *.local
+
+.cache/
